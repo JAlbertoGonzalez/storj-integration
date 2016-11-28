@@ -7,7 +7,7 @@
   },
   "dependencies": {
     "storjshare-cli": "storj/storjshare-cli",
-    "storj-complex": "storj/complex",
+    "storj-complex": "bookchin/storj-complex#da688965cd63a19f214ff525dd217aac39ad3750",
     "storj-bridge": "storj/bridge",
     "storj-lib": "storj/core",
     "storj-mongodb-adapter": "storj/mongodb-adapter",
