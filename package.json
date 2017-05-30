@@ -7,12 +7,12 @@
   "dependencies": {
     "storj-bridge": "storj/bridge",
     "storj-complex": "storj/complex",
-    "storj-lib": "bookchin/storj-core#feature/contact-in-offer",
+    "storj-lib": "storj/core",
     "storj-mongodb-adapter": "storj/mongodb-adapter",
     "storj-service-error-types": "storj/service-error-types",
     "storj-service-mailer": "storj/service-mailer",
     "storj-service-middleware": "storj/service-middleware",
     "storj-service-storage-models": "storj/service-storage-models",
-    "storjshare-daemon": "bookchin/storjshare-daemon#2df2feda9e2dcc794926673cb66167e1f7a338c3"
+    "storjshare-daemon": "bookchin/storjshare-daemon#cd059183268a2868afa75210dc6e01f200718f2a"
   }
 }
